@@ -1,0 +1,82 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.vspscc
+*.vssscc
+
+# DotNet project
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# MSTest test Results
+TestResults/
+
+# Xamarin
+*.apk
+*.ap_
+*.dex
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.app.dSYM
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/
+.vscode/settings.json
+
+# Rider
+.idea/
+*.sln.iml
+
+# Windows
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.manifest
+*.pdb
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Resharper
+_ReSharper.Caches/
+
+# JetBrains Rider
+.idea/
+
+# EditorConfig
+*.editorconfig
+
+# Database
+*.mdf
+*.ldf
+*.db
+
+# Visual Studio Code
+.vscode/
+
+# Backup files
+*.bak
+*.swp
+*.orig
+*.temp
+*.tmp
